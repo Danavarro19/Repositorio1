@@ -12,7 +12,7 @@ public class DatosPersonales {
      * @param args 
      */
     public static void main(String[] args) {
-        System.out.println("Pene");
+        System.out.println("Cool");
     }
     
 }
