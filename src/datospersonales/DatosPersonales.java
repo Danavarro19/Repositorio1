@@ -12,11 +12,7 @@ public class DatosPersonales {
      * @param args 
      */
     public static void main(String[] args) {
-        System.out.println("Nombres: Daniel de Jesus");
-        System.out.println("Apellidos: Navarro Dominguez");
-        System.out.println("Edad: 21");
-        System.out.println("Fecha de nacimineto: 9/12/1996");
-        
+        System.out.println("Pene");
     }
     
 }
